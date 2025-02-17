@@ -1,0 +1,4 @@
+GetFileName(LocalAppData).true
+GetName(true).GetChildName()
+ (end
+end
