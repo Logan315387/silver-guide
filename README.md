@@ -1,2 +1,2 @@
 # silver-guide
-Read this.
+Read this. If you install all the files. It will work.
